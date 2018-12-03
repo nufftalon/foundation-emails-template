@@ -17,28 +17,12 @@ This is the official starter project for [Foundation for Emails](http://foundati
 
 To use this template, your computer needs [Node.js](https://nodejs.org/en/) 0.12 or greater. The template can be installed with the Foundation CLI, or downloaded and set up manually.
 
-### Using the CLI
-
-Install the Foundation CLI with this command:
-
-```bash
-npm install foundation-cli --global
-```
-
-Use this command to set up a blank Foundation for Emails project:
-
-```bash
-foundation new --framework emails
-```
-
-The CLI will prompt you to give your project a name. The template will be downloaded into a folder with this name.
-
 ### Manual Setup
 
 To manually set up the template, first download it with Git:
 
 ```bash
-git clone https://github.com/zurb/foundation-emails-template projectname
+git clone https://github.com/Pharmasolin/foundation-emails-template.git projectname
 ```
 
 Then open the folder in your command line, and install the needed dependencies:
